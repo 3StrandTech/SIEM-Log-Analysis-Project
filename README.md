@@ -52,11 +52,13 @@ As you can see in the below screenshots, login attempts failed
 
 <h2> Wazuh Logs showing failed logins </h2>
 
-In the below images, you can see that the login attempt on each device failed
+In the below image, you can see the Wazuh logs that show the failed login attempts. 
 
+![Step 7(special)](https://github.com/user-attachments/assets/2fe641b5-e6fc-4275-8009-c60cfc3d7a1b)
 
+![Step 8](https://github.com/user-attachments/assets/718c7c36-f25a-49aa-b602-832fcf3f6a30)
 
-Lessons Learned
+<h2> Lessons Learned </h2>
 
 I learned how to install and configure a network virtually in Oracle VirtualBox including the PC endpoints, router/firewall, and Wazuh server. I was able to attempt to login which failed and was able to verify the failed login in the Wazuh logs. I gained an appreciation for the detail and planning involved in network setup and got experience with Dashboard Query Language (DQL) in searching for the failed authentication logs within Wazuh. 
 
