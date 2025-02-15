@@ -26,7 +26,7 @@ The network was setup in Oracle Virtualbox and Wazuh Agents were installed on ea
 
 ![VirtualBox Network Manager](https://github.com/user-attachments/assets/e397f62b-7754-4b78-a39a-f610da825067)
 
-
+![Step 11](https://github.com/user-attachments/assets/9c4b26d8-75ef-428a-aff4-8c1853bddd68)
 
 The pfSense router/firewall setup as DHCP server
 
@@ -54,7 +54,7 @@ As you can see in the below screenshots, login attempts failed
 
 In the below images, you can see that the login attempt on each device failed
 
-![Step 11](https://github.com/user-attachments/assets/9c4b26d8-75ef-428a-aff4-8c1853bddd68)
+
 
 Lessons Learned
 
