@@ -41,11 +41,16 @@ The pfSense router/firewall setup as DHCP server
 
 As you can see in the below screenshots, login attempts failed
 
+![Step 3(a)](https://github.com/user-attachments/assets/6fd7041b-baba-4b15-a19e-e7d36fd32dee)
+
+![Step 3](https://github.com/user-attachments/assets/a0d34914-7b36-49ea-8bae-4646912cff22)
 
 
 <h2> Wazuh Logs showing failed logins </h2>
 
 In the below images, you can see that the login attempt on each device failed
+
+![Step 11](https://github.com/user-attachments/assets/9c4b26d8-75ef-428a-aff4-8c1853bddd68)
 
 Lessons Learned
 
