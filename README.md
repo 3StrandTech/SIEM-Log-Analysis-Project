@@ -18,7 +18,8 @@ Build a home lab to simulate the setup of a firewall and SIEM for the purposes o
 
 Below you see the network diagram (made with draw.io). To summarize, the pfSense router/firewall is the DHCP server. The 172.16.0.1/24 network is for the LAN interface only. The WAN interface is active and only allows the two Linux machines to access the Internet. The two Linux VMs generate data and have Wazuh agents installed that forward logs to the Wazuh server. The pfSense device forwards syslogs to the Wazuh server. 
 
-![1](https://github.com/user-attachments/assets/d15b4701-e408-4e1c-a907-db0a6d12ce8e)
+![1](https://github.com/user-attachments/assets/4f8d281f-a986-4f2b-939b-d3f36dc83e7d)
+
 
 
 <h2> Virtual Network Setup </h2>
