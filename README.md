@@ -22,9 +22,11 @@ Below you see the network diagram (made with draw.io). To summarize, the pfSense
 
 <h2> Virtual Network Setup </h2>
 
-The network was setup in Oracle Virtualbox
+The network was setup in Oracle Virtualbox and Wazuh Agents were installed on each VM as shown in the second screenshot (shows the terminal commands needed to install the Wazuh agents).
 
 ![VirtualBox Network Manager](https://github.com/user-attachments/assets/e397f62b-7754-4b78-a39a-f610da825067)
+
+![image](https://github.com/user-attachments/assets/e316fdfa-f725-4393-ba77-b78f929a77f3)
 
 The pfSense router/firewall setup as DHCP server
 
@@ -57,6 +59,6 @@ In the below images, you can see that the login attempt on each device failed
 Lessons Learned
 
 I learned how to install and configure a network virtually in Oracle VirtualBox including the PC endpoints, router/firewall, and Wazuh server. I was able to attempt to login which failed and was able to verify the failed login in the Wazuh logs. I gained an appreciation for the detail and planning involved in network setup and got experience with Dashboard Query Language (DQL) in searching for the failed authentication logs within Wazuh. 
-![image](https://github.com/user-attachments/assets/e316fdfa-f725-4393-ba77-b78f929a77f3)
+
 
 
