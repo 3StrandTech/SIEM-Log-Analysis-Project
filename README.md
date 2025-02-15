@@ -4,6 +4,8 @@
 
 A SIEM setup using two virtual machines (VMs) (1 Ubuntu, 1 Linux Mint VM), a firewall (pfsense Community Edition), and an open source Extended Detection and Response (XDR) and Security Information and Event Management (SIEM) system called Wazuh. I built the project to practice my cybersecurity skills. 
 
+Note: I do have a 10 part series on LinkedIn where I go into great detail about the entire setup. You can view Part 1 of that setup here 
+
 <h2> Project Objective </h2>
 
 Build a home lab to simulate the setup of a firewall and SIEM for the purposes of practicing various cybersecurity skills. In this lab, you will see:
