@@ -26,7 +26,7 @@ The network was setup in Oracle Virtualbox and Wazuh Agents were installed on ea
 
 ![VirtualBox Network Manager](https://github.com/user-attachments/assets/e397f62b-7754-4b78-a39a-f610da825067)
 
-![image](https://github.com/user-attachments/assets/e316fdfa-f725-4393-ba77-b78f929a77f3)
+
 
 The pfSense router/firewall setup as DHCP server
 
