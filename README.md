@@ -60,7 +60,7 @@ In the first image I used Dashboard Query Language (DQL) to search for the faile
 
 <h2> Lessons Learned </h2>
 
-I learned how to install and configure a network virtually in Oracle VirtualBox including the PC endpoints, router/firewall, and Wazuh server. I was able to generate failed logins and was able to verify the failed login in the Wazuh logs. I gained an appreciation for the detail and planning involved in network setup and got experience with Dashboard Query Language (DQL) in searching for the failed authentication logs within Wazuh. I feel much more confident in log analysis as a result of this lab
+I learned how to install and configure a network virtually in Oracle VirtualBox including the Linux endpoints, router/firewall, and Wazuh server. I was able to generate failed logins and was able to verify the failed login in the Wazuh logs. I gained an appreciation for the detail and planning involved in network setup and got experience with Dashboard Query Language (DQL) in searching for the failed authentication logs within Wazuh. I feel much more confident in log analysis as a result of this lab
 
 
 
